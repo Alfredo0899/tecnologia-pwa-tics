@@ -84,4 +84,5 @@ h1{
     color: rgb(0, 92, 5);
     padding: 0.3rem 1rem;
     border-radius: 20px;
+    text-transform: capitalize;
 }
